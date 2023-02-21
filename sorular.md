@@ -9,7 +9,7 @@ Eğer aradığınız soruların cevapları GitHub docs'ta yok ise Google'lama be
 1. Git nedir?
 2. Git ile GitHub arasında ne fark var?
 3. Neden bir branch oluşturuyoruz? 
-4. Pull Request'in amacı nedir?
+4. Pull Request'in amacı nedir?=
 5. Bir Branchten diğerine geçmek için kullanıdığımız KOMUT nedir? Örneğin ADINIZ-SOYADINIZ branch'inde çalıştığınızı hayal edin ve main branch'ine geçmek istiyorsunuz.
 6. `git fetch`, `git merge` ve `git pull` arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız.
 7. Merge conflict nedir?

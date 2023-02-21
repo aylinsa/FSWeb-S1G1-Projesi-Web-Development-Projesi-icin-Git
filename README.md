@@ -4,7 +4,7 @@ Yeni bir kurumda bir Full Stack Web Developer olarak işe başladığınızı ha
 İlk gün yapacağınız işlerden biri sorumlu olacağınız projenin kodlarını kendi bilgisayarınıza almak ve bu kodların çalışacağı ortamı hazırlamaktır. 
 
 Sorumlu olacağınız projenin kodlarını çalıştırabilmek için;
-(1) Tüm gerekli programları yüklemeli
+(1) Tüm gerekli program ları yüklemeli
 (2) Bilgisayarınızda yeni bir SSH key oluşturup GitHub hesabınıza eklemelisiniz.
 
 Bunları yaptı iseniz size yöneticiniz tarafından verilen ilk göreviniz 'Git'e aşina olmak'. Bunun için sizden aşağıdaki görevi tamamlamanızı istiyor.
